@@ -1,0 +1,18 @@
+/* Home.css */
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .bookstore-image {
+    width: 80%; /* Adjust the width as needed */
+    height:80%; /* Maintain aspect ratio */
+    border-radius: 10px; /* Optional: Add border radius for a rounded appearance */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+  }
+  
+  h1 {
+    color: #333; /* Set the color of the text */
+    font-size: 24px; /* Adjust the font size as needed */
+  }
+  
